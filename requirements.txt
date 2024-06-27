@@ -24,7 +24,7 @@ python-libtorrent==0.16.11
 requests==2.32.2
 rsa==4.7
 scapy==2.4.1
-scikit-learn==0.14.1
+scikit-learn==1.5.0
 scipy==1.10.0
 tornado==6.3.3
 uncompyle2==1.1
